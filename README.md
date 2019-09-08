@@ -3,6 +3,7 @@
 これができるやつ→<img src="https://i.imgur.com/jVCyiIA.png" width="500px">
 
 調子に乗って作ったGooglePlayMusicで使えるChrome用拡張機能です。
+他の作業をしながら曲の操作が出来るようになります。(キーボードにメディア操作機能が付いている場合)、ロック画面に曲名の表示や曲の操作が出来ます。
 
 仕様や使い方はAppleMusic-notification( https://github.com/kawa-nobu/AppleMusic-notification )と同じ仕様なので色々と凄いですw
 暇があるときに直していこうと思いますw
